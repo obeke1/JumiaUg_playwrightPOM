@@ -6,7 +6,7 @@
 
 2). Download and install visual code or any text/code editor of your choice.
 
-3). Create a new folder(AgriExim_CypressPOMJavaScript) for the project and open in visual code.
+3). Create a new folder(JumiaUg_playwrightPOM) for the project and open in visual code.
 
 4). Open cmd/terminal then execute below command.
 
