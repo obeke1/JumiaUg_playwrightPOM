@@ -1,10 +1,10 @@
-## **Agri Exim Uganda Limited - Cypress JavaScript Automation** ##
+## **Jumia - Playwrightj JavaScript Automation** ##
 
 ## **Environment/Testing bed Setup** ##
 
-1). Download and install node.js. 
+1). Download and install [node.js](https://nodejs.org/en/download). 
 
-2). Download and install visual code or any text/code editor of your choice.
+2). Download and install [visual code](https://code.visualstudio.com/download)or any text/code editor of your choice.
 
 3). Create a new folder(JumiaUg_playwrightPOM) for the project and open in visual code.
 
